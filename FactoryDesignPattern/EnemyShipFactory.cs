@@ -3,6 +3,10 @@
 
 namespace FactoryDesignPattern
 {
+    //Factory pattern prevents your code from long "if else" codes
+    //If there will be created various order of objects you should consider to use this pattern
+
+
     // This is a factory thats only job is creating ships
     // By encapsulating ship creation, we only have one
     // place to make modifications
