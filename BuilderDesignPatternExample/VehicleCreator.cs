@@ -4,6 +4,7 @@ using System.Text;
 
 namespace BuilderDesignPatternExample
 {
+    //This is a class that is used to construct an object using the Builder interface.
     class VehicleCreator
     {
         private readonly IVehicleBuilder objBuilder;

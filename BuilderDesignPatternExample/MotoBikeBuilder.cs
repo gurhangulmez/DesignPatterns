@@ -4,6 +4,7 @@ using System.Text;
 
 namespace BuilderDesignPatternExample
 {
+    //This is a class which implements the Builder interface to create a complex product.
     class MotoBikeBuilder : IVehicleBuilder
     {
         Vehicle hondaMotoBike = new Vehicle();
