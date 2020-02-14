@@ -8,7 +8,6 @@ namespace Bridge_Design_Pattern
         {
             CustomerManager cManager = new CustomerManager();
             cManager.messageSenderBase = new EMailSender();
-
             cManager.UpdateCustomer();           
         }
     }
