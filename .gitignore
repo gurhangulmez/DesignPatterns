@@ -28,3 +28,6 @@ ConsoleApp1/.vs
 DependencyInjection/bin
 DependencyInjection/obj
 DependencyInjection/.vs
+DependencyInjectionWithIOC/.vs
+DependencyInjectionWithIOC/bin
+DependencyInjectionWithIOC/obj
