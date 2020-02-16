@@ -31,3 +31,5 @@ DependencyInjection/.vs
 DependencyInjectionWithIOC/.vs
 DependencyInjectionWithIOC/bin
 DependencyInjectionWithIOC/obj
+ObserverDesignPattern/bin
+ObserverDesignPattern/obj
